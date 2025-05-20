@@ -19,7 +19,7 @@ projects and contributing to open-source initiatives like SSOC (Social Summer of
 ---
 ## 🔗 Connect With Me
 [![LinkedIn].(https://www.linkedin.com/in/goldi-kumari-35a019316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](goldigond44@gmail.com)
+[![Gmail].goldigond44@gmail.com)
 ---
 ## 🌐 Portfolio Website
 Check out my personal portfolio here 👉 [Visit Portfolio](https://goldigd05.github.io/portfolio/)
