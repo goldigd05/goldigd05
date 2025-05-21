@@ -22,6 +22,6 @@ projects and contributing to open-source initiatives like SSOC (Social Summer of
 [![Gmail].goldigond44@gmail.com)
 ---
 ## 🌐 Portfolio Website
-Check out my personal portfolio here 👉 [Visit Portfolio](https://goldigd05.github.io/portfolio/)
+Check out my personal portfolio here 👉 [Visit Portfolio](https://goldigd05.github.io/-my-portfolio-/)
 > 💡 “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
 ---
