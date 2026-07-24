@@ -4,8 +4,8 @@ B.Tech CSE (IoT & Cybersecurity) student building full-stack and AI/ML systems t
 
 - 🔭 Currently interning at **SKH Private Limited**, building a role-based Canteen Management System
 - 🧠 Also building AI/ML systems — predictive maintenance, pharmacogenomics risk prediction, industrial safety intelligence
-- 🌱 GirlScript Summer of Code (2025 & 2026) and Google Summer of Code contributor (PyTensor, NumFOCUS/PyMC)
-- 📄 Published research in IJACEN · presented a paper internationally in Abu Dhabi
+- 🌱 GirlScript Summer of Code (2025 & 2026) 
+- 📄 Published research in IJACEN · presented a paper internationally in Abu Dhabi  |   Read paper ()
 - 💬 Open to Frontend / Full-Stack / AI-ML internships
 - 📫 goldigond44@gmail.com
 
