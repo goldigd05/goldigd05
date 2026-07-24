@@ -8,24 +8,9 @@ B.Tech CSE (IoT & Cybersecurity) student building full-stack and AI/ML systems t
 - 📄 Published research in IJACEN · presented a paper internationally in Abu Dhabi  |   Read paper ()
 - 💬 Open to Frontend / Full-Stack / AI-ML internships
 - 📫 goldigond44@gmail.com
+- portfolio-: https://portfolio-theta-rose-04xrydnqo1.vercel.app/
 
----
 
-### 🚀 Featured Projects
-
-**[AlgoPath (DSA Master)](your-github-link-here)** — Full-stack DSA learning platform with a guided, topic-unlocking roadmap  
-`Angular` `Node.js` `Express` `MongoDB` `JWT`
-
-**[MachineGuard AI](your-github-link-here)** — Industrial IoT predictive-maintenance system, deployed live  
-`Flask` `scikit-learn` `MongoDB`
-
-**[PharmaGuard AI](your-github-link-here)** — Pharmacogenomics risk-prediction tool with an LLM-assisted pipeline, built for RIFT 2026  
-`FastAPI` `Gemini 2.0 Flash`
-
-**[Industrial Safety Intelligence](your-github-link-here)** — AI-powered safety system with geospatial risk heatmaps, built for ET AI Hackathon 2.0  
-`Angular` `FastAPI` `XGBoost`
-
----
 
 ### 🛠️ Tech Stack
 
@@ -41,13 +26,7 @@ B.Tech CSE (IoT & Cybersecurity) student building full-stack and AI/ML systems t
 
 ---
 
-### 📊 GitHub Stats
-
-![Goldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldigd05&show_icons=true&theme=default)
-
----
-
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goldi-k-35a019316/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](your-portfolio-link-here)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-theta-rose-04xrydnqo1.vercel.app/)
